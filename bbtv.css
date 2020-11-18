@@ -22,7 +22,7 @@ h2 h3 h5{
 }
 
 h4{
-	font-size: 14px;
+	font-size: 20px;
 
 }
 
@@ -30,5 +30,9 @@ main{
 	max-width: 800px
 	padding: 20px 20px;
 	margin: 0 auto;
+}
+.p{
+	font-family: Courier, Courier New, monospace;
+	font-size: 16px;
 }
 
