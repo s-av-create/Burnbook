@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	font-family: Josefin Sans, sans-serif;
+	
+}
+/*Header styles */
+
+header{
+	background-color: #FCCCF3;
+	text-align: left;
+	padding-top: 50px; 
+	padding-bottom: 30px; 
+}
+h1{
+	font-size: 40px; 
+	color:  #73025D;
+}
+h2{
+	font-size: 20px; 
+
+}
