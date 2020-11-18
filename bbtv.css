@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	font-family: Josefin Sans, sans-serif;
+	background-color: #F9E0F8;
 	
 }
 /*Header styles */
@@ -22,6 +23,12 @@ h2 h3 h5{
 
 h4{
 	font-size: 14px;
-	
+
+}
+
+main{
+	max-width: 800px
+	padding: 20px 20px;
+	margin: 0 auto;
 }
 
