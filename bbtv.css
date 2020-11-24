@@ -36,4 +36,9 @@ main{
 	font-family: Courier, Courier New, monospace;
 	font-size: 16px;
 }
+footer{
+	background-color: #CFD6EE; 
+	text-align: center;
+	padding: 50px; 
+}
 
