@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: Josefin Sans, sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	background-color: lightpink;
 	
 }
@@ -8,7 +8,7 @@ body{
 
 header{
 	background-color: #FCCCF3;
-	text-align: left;
+	text-align: center;
 	padding-top: 30px; 
 	padding-bottom: 30px; 
 }
@@ -16,6 +16,10 @@ header{
 h1{
 	font-size: 40px; 
 	color:  #73025D;
+}
+
+header h2 {
+	color: #73025D;
 }
 h2 h3 h5{
 	   font-size: 20px; 
@@ -30,6 +34,7 @@ main{
 	max-width: 800px
 	padding: 20px 20px;
 	margin: 0 auto;
+	text-align: center;
 
 }
 p{
@@ -37,7 +42,7 @@ p{
 	font-size: 16px;
 }
 footer{
-	background-color: #CFD6EE; 
+	background-color: #FCCCF3; 
 	text-align: center;
 	padding: 50px; 
 }
