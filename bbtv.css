@@ -31,11 +31,12 @@ h4{
 }
 
 main{
+	background-color: #E1BBF3;
 	max-width: 800px
 	padding: 20px 20px;
 	margin: 0 auto;
 	text-align: center;
-	background-color: #E1BBF3;
+	
 
 }
 p{
