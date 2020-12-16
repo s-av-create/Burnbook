@@ -35,10 +35,10 @@ main{
 	padding: 20px 20px;
 	margin: 0 auto;
 	text-align: center;
+	background-color: #E1BBF3;
 
 }
 p{
-	font-family: Courier, Courier New, monospace;
 	font-size: 16px;
 }
 footer{
