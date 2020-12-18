@@ -1,7 +1,8 @@
 body{
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
-	background-color: #F9E0F8;
+
+	
 	
 }
 /*Header styles */
@@ -31,11 +32,11 @@ h4{
 }
 
 main{
-	background-color: #E1BBF3;
-	max-width: 800px
+	max-width: 800px;
 	padding: 20px 20px;
 	margin: 0 auto;
 	text-align: center;
+	background-color: #E1BBF3;
 	
 
 }
